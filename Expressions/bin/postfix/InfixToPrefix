@@ -1,0 +1,4 @@
+follow the steps below:
+1. Reverse the given infix expression
+2. convert the reversed expression into post fix.
+3. again reverse the obtained post fix expression in the above step.

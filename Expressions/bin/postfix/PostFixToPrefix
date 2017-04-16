@@ -1,0 +1,3 @@
+Follow the same proceadure as PostFixTo infix
+But instead of adding the operator in between the top two elemnts of the stack add it to the left of top two elements
+and push this again into stack as you do in that algo
